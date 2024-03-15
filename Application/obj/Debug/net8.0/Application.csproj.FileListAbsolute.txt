@@ -1,0 +1,15 @@
+F:\University\.net\Pimp\Application\bin\Debug\net8.0\Application.deps.json
+F:\University\.net\Pimp\Application\bin\Debug\net8.0\Application.dll
+F:\University\.net\Pimp\Application\bin\Debug\net8.0\Application.pdb
+F:\University\.net\Pimp\Application\bin\Debug\net8.0\Domain.dll
+F:\University\.net\Pimp\Application\bin\Debug\net8.0\Domain.pdb
+F:\University\.net\Pimp\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+F:\University\.net\Pimp\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\University\.net\Pimp\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+F:\University\.net\Pimp\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+F:\University\.net\Pimp\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+F:\University\.net\Pimp\Application\obj\Debug\net8.0\Application.dll
+F:\University\.net\Pimp\Application\obj\Debug\net8.0\refint\Application.dll
+F:\University\.net\Pimp\Application\obj\Debug\net8.0\Application.pdb
+F:\University\.net\Pimp\Application\obj\Debug\net8.0\ref\Application.dll
+F:\University\.net\Pimp\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date

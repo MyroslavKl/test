@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\University\\.net\\Pimp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EE6B86-C68F-43F0-AD12-2011B29D7331}|Api\\Api.csproj|f:\\university\\.net\\pimp\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0EE6B86-C68F-43F0-AD12-2011B29D7331}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EE6B86-C68F-43F0-AD12-2011B29D7331}|Api\\Api.csproj|f:\\university\\.net\\pimp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EE6B86-C68F-43F0-AD12-2011B29D7331}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B680E752-2972-4B81-8F65-4D0917CA5E8A}|Infrastucture\\Infrastucture.csproj|f:\\university\\.net\\pimp\\infrastucture\\databasecontext\\hrdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B680E752-2972-4B81-8F65-4D0917CA5E8A}|Infrastucture\\Infrastucture.csproj|solutionrelative:infrastucture\\databasecontext\\hrdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B680E752-2972-4B81-8F65-4D0917CA5E8A}|Infrastucture\\Infrastucture.csproj|f:\\university\\.net\\pimp\\infrastucture\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B680E752-2972-4B81-8F65-4D0917CA5E8A}|Infrastucture\\Infrastucture.csproj|solutionrelative:infrastucture\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\University\\.net\\Pimp\\Infrastucture\\Migrations\\20240315130119_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastucture\\Migrations\\20240315130119_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\University\\.net\\Pimp\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "F:\\University\\.net\\Pimp\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:02:53.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240315130119_Init.cs",
+              "DocumentMoniker": "F:\\University\\.net\\Pimp\\Infrastucture\\Migrations\\20240315130119_Init.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\Migrations\\20240315130119_Init.cs",
+              "ToolTip": "F:\\University\\.net\\Pimp\\Infrastucture\\Migrations\\20240315130119_Init.cs",
+              "RelativeToolTip": "Infrastucture\\Migrations\\20240315130119_Init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T13:01:19.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersistenceServiceRegistration.cs",
+              "DocumentMoniker": "F:\\University\\.net\\Pimp\\Infrastucture\\PersistenceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\PersistenceServiceRegistration.cs",
+              "ToolTip": "F:\\University\\.net\\Pimp\\Infrastucture\\PersistenceServiceRegistration.cs",
+              "RelativeToolTip": "Infrastucture\\PersistenceServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T21:47:37.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HrDatabaseContext.cs",
+              "DocumentMoniker": "F:\\University\\.net\\Pimp\\Infrastucture\\DatabaseContext\\HrDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\DatabaseContext\\HrDatabaseContext.cs",
+              "ToolTip": "F:\\University\\.net\\Pimp\\Infrastucture\\DatabaseContext\\HrDatabaseContext.cs",
+              "RelativeToolTip": "Infrastucture\\DatabaseContext\\HrDatabaseContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T21:47:19.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\University\\.net\\Pimp\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "F:\\University\\.net\\Pimp\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T21:45:37.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
